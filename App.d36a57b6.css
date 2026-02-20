@@ -1,0 +1,31 @@
+@font-face {
+font-family: 'AvenirLight';
+src: url('/Avenir-Light-07.ebb2de24.ttf');
+}
+
+@font-face {
+font-family: 'AvenirRoman';
+src: url('/Avenir-Roman-12.fc2fe314.ttf');
+}
+
+@font-face {
+font-family: 'AvenirBook';
+src: url('/Avenir-Book-01.47f1e83b.ttf');
+}
+
+@font-face {
+font-family: 'AvenirMedium';
+src: url('/Avenir-Medium-09.4ca59392.ttf');
+}
+
+@font-face {
+font-family: 'AvenirHeavy';
+src: url('/Avenir-Heavy-05.acd3f0d2.ttf');
+}
+
+@font-face {
+font-family: 'Valencia';
+src: url('/Valencia.5a75d995.ttf');
+}
+
+/*# sourceMappingURL=/App.d36a57b6.css.map */
